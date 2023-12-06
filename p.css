@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(162, 162, 218);
+
+  }
+  #we{
+    background-color:red;
+    width: 100px;
+    height:100px;
+    border-radius: 100%;
+    margin-left: 300px;
+    margin-top: 200px;
+    
+
+  }
+  #q{
+    display:block;
+    margin-left: 300px;
+
+  }
+  #e{
+    width:123px;
+    display:block;
+    margin-left: 300px;
+  }
+  .submit{
+ border-radius: 70px;
+ background-color: rgb(162, 162, 218);
+ color: white;
+ margin-left: 360px;
+ margin-top: 30px;;
+  }
+  #che{
+    margin-left: 300px;
+    margin-top: 25px;;
+  }
+  #terms
+  {
+    margin-left: 320px;
+    margin-top: -20px;
+  }
+ 
